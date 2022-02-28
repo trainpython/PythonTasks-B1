@@ -1,0 +1,11 @@
+# open pycharm
+# go to vcs
+# vcs --> clone/vcs version control
+# https://github.com/trainpython/PythonTasks-B1.git
+# Add above link in the clone section
+# Now you will see JiraTasks folder and test.txt file
+# Now you have to create your own branch with username and task/ only with your name
+# steps: go to main/master branch in bottom right corner and click on it and you will see New Branch option there.
+# click on New Branch and add your own branch name.
+# now open your jira task and move the task from To-do state to in progress state.
+# from here on words work in your branch and push and commit your work in git.
